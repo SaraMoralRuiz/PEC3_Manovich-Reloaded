@@ -9,7 +9,11 @@
 
 ## Introducción
 
-Hoy en día, como respuesta natural a la evolución del software, infinidad de medios se fusionan junto con los avances tecnológicos para crear nuevos medios con las características de ambos, a este fenómeno también se le conoce como **hibridación de medios**. Para conocer como funcionan los medios híbridos actualmente se proponen dos casos interesantes de hibridación que nos servirán para explicar las principales características de este nuevo tipo de medios.
+Hoy en día, como respuesta natural a la evolución del software, infinidad de medios se fusionan junto con los avances tecnológicos para crear nuevos medios con las características de ambos, a este fenómeno también se le conoce como **hibridación de medios**. Para no confundir obras híbridas con obras multimedia recordemos las palbras de Manovich en uno de sus libros:
+
+`En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro[...]Por contra, en los híbridos de medios[...]se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.`
+
+Para conocer como funcionan los medios híbridos actualmente se proponen dos casos interesantes de hibridación que nos servirán para explicar las principales características de este nuevo tipo de medios.
 
 ## Caso 1: Detroit: Become Human
 
