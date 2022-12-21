@@ -23,11 +23,16 @@ También cabe mencionar, que el estudio desarrollador Quantic Dream se especiali
 
 Respecto a la información comentada anteriormente, podemos asegurarnos de que este es un caso de hibridación de medios bastante claro, pues Detroit:Become Human no deja de ser el resultado de la fusión de diversos medios, entre los que se encuentran:
 - El cine
-- Los videojuegos
+- Los videojuegos como forma de entretenimiento.
 - 3D
 
 Además, con este tipo de videojuegos, surgen nuevas técnicas de narrativa interactiva para hacer que las experiencias sean mucho más inmersivas, haciendo que el jugador se sienta protagonista del juego en todo momento. Algunas de estas técnicas pueden ser
 
 ###### Enlaces de interés:
+
+[Tráiler del juego](https://www.youtube.com/watch?v=euULGCe8Y50&ab_channel=PlayStationEspa%C3%B1a)
+
+[Historia completa desarrollada por Kratosworld](https://www.youtube.com/watch?v=nQUFQZ_KbMs&ab_channel=Kratosworld)
+
 
 ## Caso 2: That Dragon, Cancer
