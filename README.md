@@ -17,16 +17,16 @@ Detroit:Become Human es un videojuego desarrollado por el estudio Quantic Dream 
 
 El juego se ambienta en un futuro distópico en el que en una ciudad donde se fabrican y hacen uso constante de androides comienzan a aparecer exponencialmente casos de ejemplares "dañados", que actúan por voluntad propia manifestando emociones. Esta experiencia sigue las historias de tres personajes muy diferentes que determinarán el desenlace del juego.
 
-Por otra parte, en cuanto a su rasgo más diferenciador, se encuentra su dinámica de toma de decisiones, pues la evolución de la trama y de los personajes recae, tanto para bien como para mal, sobre las elecciones que tome el jugador durante la experiencia. Esto permite que cada usuario pueda obtener desenlaces únicos en función de sus valores o errores durante el juego.
+Por otra parte, en cuanto a su rasgo más diferenciador, se encuentra su dinámica de toma de decisiones, pues la evolución de la trama y de los personajes recae, tanto para bien como para mal, sobre las elecciones que tome el jugador durante la experiencia. Esto permite que cada usuario pueda obtener desenlaces únicos en función de sus valores o errores durante el juego. La dinámica de la narrativa está pensada de tal manera que hasta acciones insignificantes que no parecen alterar nada en comparación con otras, terminan siendo cruaciales en la historia. Esta red compleja de decisiones hace que si un jugador quiere vivir por completo la obra, necesitará volver a jugarlo varias veces abriendo nuevos caminos sin explorar. Sin más palabras, fascinante.
 
-También cabe mencionar, que el estudio desarrollador Quantic Dream se especializa en la creación de aventuras gráficas, y con este lanzamiento han aumentado considerablemente la inmersión de los jugadores en la trama aprovechando los avances tecnológicos y características de la consola.
+También cabe mencionar, que el estudio desarrollador Quantic Dream se especializa en la creación de aventuras gráficas, y con este lanzamiento han aumentado considerablemente la inmersión de los jugadores en la trama aprovechando los avances tecnológicos y características de la consola. Por otro lado, dentro de la ficción del contenido, se busca una experiencia realista tanto en la percepción del entrono, como puede ser mediante el uso de gráficos realistas o vibración del mando, como en cuanto a la percepción de las emociones de los personajes, como puede ser disfrutar o sufrir unas consecuencias, directas o no, de decisiones tomadas durante el juego.
 
 Respecto a la información comentada anteriormente, podemos asegurarnos de que este es un caso de hibridación de medios bastante claro, pues Detroit:Become Human no deja de ser el resultado de la fusión de diversos medios, entre los que se encuentran:
 - El cine
 - Los videojuegos como forma de entretenimiento.
 - 3D
 
-Además, con este tipo de videojuegos, surgen nuevas técnicas de narrativa interactiva para hacer que las experiencias sean mucho más inmersivas, haciendo que el jugador se sienta protagonista del juego en todo momento. Algunas de estas técnicas pueden ser
+Además, con este tipo de videojuegos, surgen nuevas técnicas de narrativa interactiva para hacer que las experiencias sean mucho más inmersivas, haciendo que el jugador se sienta protagonista del juego en todo momento. Una de estas técnicas puede ser poner al jugador en situaciones en las que debe catuar rápido y bajo presión, pues como en la vida real, el tiempo que tardamos en reaccionar en ciertas situaciones influye directamente sobre las consecuancias de dicha acción.
 
 ###### Enlaces de interés:
 
